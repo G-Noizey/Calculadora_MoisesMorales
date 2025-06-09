@@ -1,1 +1,3 @@
-# Calculadora_MoisesMorales
+-Realizar una calculadora básica
+-JAVA
+-Colocar la opción que deseas utilizar de la calculadora, las opciones se mostrarán en la interfaz de consola.
